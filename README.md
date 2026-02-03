@@ -59,9 +59,9 @@ Backend-focused developer with a strong foundation in **Computer Science fundame
 
 | Platform | Problems Solved | Rating/Rank |
 |:--------:|:---------------:|:-----------:|
-| 🟡 **LeetCode** | **900+** | Active Solver |
+| 🟡 **LeetCode** | **900+** | 1841(MAX) |
 | 🔵 **Codeforces** | **450+** | **Pupil** |
-| 🟠 **CodeChef** | Active | **3 ⭐** |
+| 🟠 **CodeChef** | 200+ | **3 ⭐** |
 
 </div>
 
@@ -105,7 +105,7 @@ Backend-focused developer with a strong foundation in **Computer Science fundame
 - ✅ Clean **layered architecture** with RESTful services
 - ✅ Optimized database queries for performance
 
-**[View Repository →](#)**
+**[View Repository →](https://github.com/JayantKumar-13/Cabify.git)**
 
 ---
 
@@ -118,7 +118,7 @@ Backend-focused developer with a strong foundation in **Computer Science fundame
 - ✅ Focused on **performance** and modular backend design
 - ✅ RESTful API design with proper error handling
 
-**[View Repository →](#)**
+**[View Repository →](https://github.com/JayantKumar-13/Social_Media_Backend.git)**
 
 ---
 
@@ -165,9 +165,9 @@ public class JayantKumar {
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](jayantkumar13ssm@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayant1303/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JayantKumar)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JayantKumar](https://github.com/JayantKumar-13))
 
 **💬 Always happy to discuss Backend Development, System Design, and Competitive Programming!**
 
