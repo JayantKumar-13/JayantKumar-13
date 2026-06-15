@@ -80,7 +80,7 @@ Backend-focused developer with a strong foundation in **Computer Science fundame
 <div align="center">
 
 ### LeetCode Stats
-[![Jayant's LeetCode Stats](https://leetcard.jacoblin.cool/JayantKumar-13?theme=dark&font=Ubuntu&ext=heatmap)](https://leetcode.com/u/JayantKumar-13/)
+[![Jayant's LeetCode Stats](https://leetcard.jacoblin.cool/JayantKumar-13?theme=dark&font=Ubuntu&ext=heatmap)]([https://leetcode.com/u/JayantKumar-13/](https://leetcode.com/u/__Jayant__/))
 
 ### Codeforces Stats
 ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Jayant_O1&theme=dark)
